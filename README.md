@@ -27,7 +27,7 @@ Funciones secundarias:
 * Generador aleatorio de nombres y apellidos
 
 ## Resultados
-## Sitio Chileno
+### Sitio Chileno
 
 La contraseña admitida en este sitio debe poseer un largo mínimo de 5 caracteres y un máximo de 72. La base permitida son todos los caracteres del teclado (base 94), UNICODE, EMOJIS y UTF-8. Esto se verifica al ver el código HTML tanto al momento de querer registrar un usuario y en el proceso de modificación de contraseña.
 
@@ -37,6 +37,6 @@ Para el restablecimiento de esta, se necesita una dirección de correo electrón
 
 
 
-### Inicio de sesión
+#### Inicio de sesión
 <img src="images/iniciosesion_chile.png" width="250" height="250" />
 
