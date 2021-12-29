@@ -66,7 +66,7 @@ No se bloquea de ninguna forma el intento de ingreso durante los 100 ciclos. Al 
 Por otra parte, la gestión de datos personales es la misma que el sitio de Unión Europea: al intentar restablecer la contraseña de un usuario introduciendo el correo electrónico asociado, el sitio chileno no confirma en el momento si este está registrado.
 
 ### Sitio Unión Europea
-La contraseña de este sitio tiene un largo mínimo de 6 caracteres y un máximo que no pudo ser definido. La base permitida son todos los caracteres del teclado (base 94), UNICODE, EMOJIS y UTF-8. El máximo largo de contraseña permitido no pudo ser comprobado. Se generó una cadena de caracteres de 1,5 millones de largo. Luego, se intenta ingresar la contraseña sin el último dígito.
+La contraseña de este sitio tiene un largo mínimo de 6 caracteres y un máximo que no pudo ser definido. La base permitida son todos los caracteres del teclado (base 94), UNICODE, EMOJIS y UTF-8. 
 
 <p align="center">
 <img src="images/pw_eu1.png" />
@@ -74,6 +74,20 @@ La contraseña de este sitio tiene un largo mínimo de 6 caracteres y un máximo
   
 <p align="center">
 <img src="images/pw_eu2.png" />
+</p>
+
+El máximo largo de contraseña permitido no pudo ser comprobado (se generó una cadena de caracteres de 1,5 millones de largo).
+
+<p align="center">
+<img src="images/pw_eulargo.png" />
+</p>
+  
+<p align="center">
+<img src="images/pw_eulargo1.png" />
+</p>
+
+<p align="center">
+<img src="images/pw_eulargo2.png" />
 </p>
 
 Para el restablecimiento de esta, se necesita una dirección de correo electrónico para verificar existe su registro en la base de datos. Esta última información no será notificada al usuario y, por ende, no existe información expuesta. Si existe el registro, se envía un link de restablecimiento al correo señalado en donde se podrá ingresar una nueva contraseña con las características ya señaladas.
