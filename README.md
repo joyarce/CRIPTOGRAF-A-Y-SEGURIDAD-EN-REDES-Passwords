@@ -45,4 +45,4 @@ Requisitos
 * Contraseña
 
 
-<img src="images/iniciosesion_chile.png" width="250" height="250" />
+<img src="images/iniciosesion_chile.png" width="300" height="300" />
