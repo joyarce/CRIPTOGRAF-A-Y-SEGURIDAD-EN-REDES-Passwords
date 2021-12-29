@@ -34,15 +34,15 @@ La contraseña admitida en este sitio debe poseer un largo mínimo de 5 caracter
 
 <p align="center">
 <img src="images/largopw_chile.png" />
-</p
+</p>
 
 <p align="center">
 <img src="images/pw_chile1.png" />
-</p
+</p>
   
 <p align="center">
 <img src="images/pw_chile2.png" />
-</p
+</p>
 
 _El largo máximo (72) se determinó modificando la contraseña de un usuario registrado a una de largo 73 para posteriormente ingresar la contraseña sin el último carácter._
 
@@ -52,7 +52,7 @@ Para el restablecimiento de esta, se necesita una dirección de correo electrón
 
 <p align="center">
 <img src="images/recuperarpw_chile.png" />
-</p
+</p>
   
 **Fuerza bruta**: Se inicia por registrar un usuario. Luego, se automatiza 100 intentos de ingresar a esta cuenta con una contraseña que no es la que corresponde al registro previo.
 
