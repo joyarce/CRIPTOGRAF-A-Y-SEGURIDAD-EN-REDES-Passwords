@@ -34,6 +34,10 @@ Funciones secundarias:
 
 La contraseña admitida en este sitio debe poseer un largo mínimo de 5 caracteres y un máximo de 72. La base permitida son todos los caracteres del teclado (base 94), UNICODE, EMOJIS y UTF-8. Esto se verifica al ver el código HTML tanto al momento de querer registrar un usuario y en el proceso de modificación de contraseña.
 
+<p align="center">
+<img src="images/crearcuenta_chile.png" />
+</p>
+
 _El largo máximo (72) se determinó modificando la contraseña de un usuario registrado a una de largo 73 para posteriormente ingresar la contraseña sin el último carácter._
 
 <p align="center">
