@@ -37,5 +37,7 @@ Para el restablecimiento de esta, se necesita una dirección de correo electrón
 
 Cabe destacar que en el request hacia el servidor, el nombre y contraseña se envian en texto plano.
 
+### 
 
+![](images/iniciosesion_chile.png)
 
