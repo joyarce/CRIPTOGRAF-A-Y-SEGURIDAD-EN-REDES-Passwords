@@ -82,3 +82,18 @@ Requisitos
 <p align="center">
 <img src="images/crearcuenta_chile.png" width="300" height="300" />
 </p>
+
+#### Fuerza bruta 
+
+Se inicia por registrar un usuario. Luego, se automatiza 100 intentos de ingresar a esta cuenta con una contraseña que no es la que corresponde al registro previo.
+
+<p align="center">
+<img src="images/fb_chile.png" width="150" height="150" />
+</p>
+
+<p align="center">
+<img src="images/fbcode_chile.png" width="300" height="300" />
+</p>
+
+
+**Conclusión**: No se bloquea de ninguna forma el intento de ingreso durante los 100 ciclos.Al modificar el codigo sin tiempos de espera entre procesos, la pagina no presenta ningun sistema de bloqueo a comparación con la pagina de la Union Europea.
