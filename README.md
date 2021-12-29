@@ -41,6 +41,8 @@ Para el restablecimiento de esta, se necesita una dirección de correo electrón
 
 <p align="center">
 <img src="images/fbcode_chile.png" />
+</p>
+<p align="center">
 <img src="images/fb_chile.png" />
 </p>
 
