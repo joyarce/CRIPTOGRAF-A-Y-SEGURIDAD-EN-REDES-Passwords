@@ -44,5 +44,6 @@ Requisitos
 * Dirección de correo electrónico
 * Contraseña
 
-
+<p align="center">
 <img src="images/iniciosesion_chile.png" width="300" height="300" />
+</p>
