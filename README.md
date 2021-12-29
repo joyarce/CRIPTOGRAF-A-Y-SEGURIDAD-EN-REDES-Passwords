@@ -28,7 +28,9 @@ Funciones secundarias:
 ## Resultados
 ### Sitio Chileno
 
-
+<p align="center">
+<img src="images/iniciosesion_chile.png" />
+</p>
 
 
 La contraseña admitida en este sitio debe poseer un largo mínimo de 5 caracteres y un máximo de 72. La base permitida son todos los caracteres del teclado (base 94), UNICODE, EMOJIS y UTF-8. Esto se verifica al ver el código HTML tanto al momento de querer registrar un usuario y en el proceso de modificación de contraseña.
