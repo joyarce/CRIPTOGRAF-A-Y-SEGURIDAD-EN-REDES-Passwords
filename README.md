@@ -40,6 +40,7 @@ Para el restablecimiento de esta, se necesita una dirección de correo electrón
 **Fuerza bruta**: Se inicia por registrar un usuario. Luego, se automatiza 100 intentos de ingresar a esta cuenta con una contraseña que no es la que corresponde al registro previo.
 
 ![](images/fbcode_chile.png)
+![](images/fb_chile.png)
 
 #### Conclusión
 No se bloquea de ninguna forma el intento de ingreso durante los 100 ciclos. Al modificar el código sin tiempos de espera entre procesos, la página no presenta ningún sistema de bloqueo a comparación con la página de la Unión Europea. 
