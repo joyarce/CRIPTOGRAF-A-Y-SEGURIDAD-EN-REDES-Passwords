@@ -1,7 +1,6 @@
 # Criptografía y seguridad en redes: Passwords
 
 
-
 ## Descripción
 _Auditación de implementación de los sistemas de creación, actualización, acceso, transmisión y recuperación de contraseñas de dos sitios distintos (uno chileno y uno perteneciente a la comunidad europea), automatizando el proceso mediante Selenium._
 
