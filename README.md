@@ -88,7 +88,7 @@ Requisitos
 Se inicia por registrar un usuario. Luego, se automatiza 100 intentos de ingresar a esta cuenta con una contraseña que no es la que corresponde al registro previo.
 
 <p align="center">
-<img src="images/fb_chile.png" width="150" height="150" />
+<img src="images/fb_chile.png" width="300" height="300" />
 </p>
 
 <p align="center">
