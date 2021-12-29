@@ -2,7 +2,7 @@
 
 
 ## Descripción
-_Auditación de implementación de los sistemas de creación, actualización, acceso, transmisión y recuperación de contraseñas de dos sitios distintos (uno chileno y uno perteneciente a la comunidad europea), automatizando el proceso mediante Selenium._
+Auditación de implementación de los sistemas de creación, actualización, acceso, transmisión y recuperación de contraseñas de dos sitios distintos (uno chileno y uno perteneciente a la comunidad europea), automatizando el proceso mediante [Dropwizard](http://www.dropwizard.io/1.0.2/docs/)Selenium.
 
 El código en Python automatiza lo siguiente:
 
