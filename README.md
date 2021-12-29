@@ -69,6 +69,8 @@ Requisitos
 <img src="images/recuperarpw_chile.png" width="300" height="300" />
 </p>
 
+**Conclusión**: La gestión de datos personales es la misma que el sitio de Unión Europea: al intentar restablecer la contraseña de un usuario introduciendo el correo electrónico asociado, el sitio chileno no confirma en el momento si este está registrado.
+
 ####  Crear cuenta
 
 Requisitos
@@ -88,11 +90,11 @@ Requisitos
 Se inicia por registrar un usuario. Luego, se automatiza 100 intentos de ingresar a esta cuenta con una contraseña que no es la que corresponde al registro previo.
 
 <p align="center">
-<img src="images/fb_chile.png" width="300" height="300" />
+<img src="images/fbcode_chile.png" width="200" height="200" />
 </p>
 
 <p align="center">
-<img src="images/fbcode_chile.png" width="300" height="300" />
+<img src="images/fb_chile.png" width="300" height="300" />
 </p>
 
 
