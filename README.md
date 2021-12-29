@@ -61,7 +61,24 @@ Requisitos (_obligatorios_)
 
 #### Recuperar contraseña
 
+Requisitos
+
+* Dirección de correo electrónico
+
 <p align="center">
 <img src="images/recuperarpw_chile.png" width="300" height="300" />
 </p>
 
+####  Crear cuenta
+
+Requisitos
+
+* Genero.
+* Nombre.
+* Apellido(s).
+* Dirección de correo electrónico.
+* Contraseña.
+
+<p align="center">
+<img src="images/crearcuenta_chile.png" width="300" height="300" />
+</p>
