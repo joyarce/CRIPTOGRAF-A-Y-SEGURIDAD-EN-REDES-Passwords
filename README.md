@@ -59,3 +59,9 @@ Requisitos (_obligatorios_)
 <img src="images/modificarpw_chile.png" width="300" height="300" />
 </p>
 
+#### Recuperar contraseña
+
+<p align="center">
+<img src="images/recuperarpw_chile.png" width="300" height="300" />
+</p>
+
