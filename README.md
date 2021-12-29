@@ -56,7 +56,7 @@ Requisitos (_obligatorios_)
 * Contraseña nueva
 
 <p align="center">
-<img src="images/modificarpw_chile.png" width="300" height="300" />
+<img src="images/modificarpw_chile.png" width="320" height="320" />
 </p>
 
 #### Recuperar contraseña
