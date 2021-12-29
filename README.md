@@ -28,7 +28,7 @@ Funciones secundarias:
 ## Resultados
 ### Sitio Chileno
 
-![](images/iniciosesion_chile.png)
+
 
 
 La contraseña admitida en este sitio debe poseer un largo mínimo de 5 caracteres y un máximo de 72. La base permitida son todos los caracteres del teclado (base 94), UNICODE, EMOJIS y UTF-8. Esto se verifica al ver el código HTML tanto al momento de querer registrar un usuario y en el proceso de modificación de contraseña.
@@ -38,6 +38,8 @@ _El largo máximo (72) se determinó modificando la contraseña de un usuario re
 Para el restablecimiento de esta, se necesita una dirección de correo electrónico para comprobar si existe registro en la base de datos. Esta ultima información no será notificada al usuario y, por ende, no existe información expuesta. Si existe el registro, se envía un link de restablecimiento al correo señalado en donde se podrá ingresar una nueva contraseña con las características ya señaladas.
 
 **Fuerza bruta**: Se inicia por registrar un usuario. Luego, se automatiza 100 intentos de ingresar a esta cuenta con una contraseña que no es la que corresponde al registro previo.
+
+![](images/fbcode_chile.png)
 
 #### Conclusión
 No se bloquea de ninguna forma el intento de ingreso durante los 100 ciclos. Al modificar el código sin tiempos de espera entre procesos, la página no presenta ningún sistema de bloqueo a comparación con la página de la Unión Europea. 
@@ -50,6 +52,8 @@ La contraseña de este sitio tiene un largo mínimo de 6 caracteres y un máximo
 Para el restablecimiento de esta, se necesita una dirección de correo electrónico para verificar existe su registro en la base de datos. Esta última información no será notificada al usuario y, por ende, no existe información expuesta. Si existe el registro, se envía un link de restablecimiento al correo señalado en donde se podrá ingresar una nueva contraseña con las características ya señaladas.
 
 **Fuerza bruta**: Se inicia por registrar un usuario. Luego, se automatiza 100 intentos de ingresar a esta cuenta con una contraseña que no es la que corresponde al registro previo.
+
+![](images/fbcode_chile.png)
 
 #### Conclusión
 No se bloquea de ninguna forma el intento de ingreso durante los 100 ciclos. Cuando se detecta un conjunto de datos ingresados de manera casi instantánea se bloquea por SPAM. Debido a esto, se añadió al código un tiempo de espera para vulnerar esta regla.
