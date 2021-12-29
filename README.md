@@ -35,9 +35,9 @@ _El largo máximo (72) se determinó modificando la contraseña de un usuario re
 
 Para el restablecimiento de esta, se necesita una dirección de correo electrónico para verificar existe su registro en la base de datos. Esta ultima información no será notificada al usuario y, por ende, no existe información expuesta. Si existe el registro, se envía un link de restablecimiento al correo señalado en donde se podrá ingresar una nueva contraseña con las características ya señaladas.
 
-Cabe destacar que en el request hacia el servidor, el nombre y contraseña se envian en texto plano.
+
 
 ### 
-
+Inicio de sesión
 <img src="images/iniciosesion_chile.png" width="250" height="250" />
 
