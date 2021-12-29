@@ -38,5 +38,11 @@ Para el restablecimiento de esta, se necesita una dirección de correo electrón
 
 
 #### Inicio de sesión
+
+Requisitos
+
+* Dirección de correo electrónico
+* Contraseña
+
 <img src="images/iniciosesion_chile.png" width="250" height="250" />
 
