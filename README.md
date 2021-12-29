@@ -40,3 +40,8 @@ Para el restablecimiento de esta, se necesita una dirección de correo electrón
 No se bloquea de ninguna forma el intento de ingreso durante los 100 ciclos.Al modificar el codigo sin tiempos de espera entre procesos, la pagina no presenta ningun sistema de bloqueo a comparación con la pagina de la Union Europea. 
 
 Por otra parte, la gestión de datos personales es la misma que el sitio de Unión Europea: al intentar restablecer la contraseña de un usuario introduciendo el correo electrónico asociado, el sitio chileno no confirma en el momento si este está registrado.
+
+### Sitio Union Europea
+La contraseña de este sitio tiene un largo mínimo de 6 caracteres y un máximo que no pudo ser definido. La base permitida son todos los caracteres del teclado (base 94), UNICODE, EMOJIS y UTF-8. El máximo largo de contraseña permitido no pudo ser comprobado. Se generó una cadena de caracteres de 1,5 millones de largo. Luego, se intenta ingresar la contraseña sin el ultimo digito.
+
+Para el restablecimiento de esta, se necesita una dirección de correo electrónico para verificar existe su registro en la base de datos. Esta ultima información no será notificada al usuario y, por ende, no existe información expuesta. Si existe el registro, se envía un link de restablecimiento al correo señalado en donde se podrá ingresar una nueva contraseña con las características ya señaladas.
