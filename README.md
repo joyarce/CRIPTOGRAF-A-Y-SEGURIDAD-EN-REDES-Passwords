@@ -39,5 +39,5 @@ Cabe destacar que en el request hacia el servidor, el nombre y contraseña se en
 
 ### 
 
-<img src="images/iniciosesion_chile.png" width="200" height="400" />
+<img src="images/iniciosesion_chile.png" width="200" height="200" />
 
